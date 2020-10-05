@@ -1,4 +1,4 @@
-# myorg/jupyterlab_theme-youCANdoThermodynamics
+# myorg/jupyterlab_theme-youcandothermodynamics
 
 A JupyterLab theme extension.
 
@@ -9,7 +9,7 @@ A JupyterLab theme extension.
 ## Installation
 
 ```bash
-jupyter labextension install myorg/jupyterlab_theme-youCANdoThermodynamics
+jupyter labextension install myorg/jupyterlab_theme-youcandothermodynamics
 ```
 
 ## Development
